@@ -1,3 +1,3 @@
 #!/bin/bash
 
-grep 'root\|jenkins\|ftp' /etc/passwd >/tmp/filez.txt 2>/dev/null
+grep 'root\|jenkins\|ftp' /etc/passwdd >/tmp/filez.txt 2>/dev/null
